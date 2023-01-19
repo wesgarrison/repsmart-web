@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>repsmart</title>
+    <link href="https://wesgarrison.github.io/repsmart-web/feed.xml" rel="self" />
+    <link href="https://wesgarrison.github.io/repsmart-web" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>repsmart</name>
+    </author>
+    <id>https://wesgarrison.github.io/repsmart-web</id>
+
+</feed>

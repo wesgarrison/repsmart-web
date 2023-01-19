@@ -1,0 +1,96 @@
+/* 
+ * Add your own CSS code for the WYSIWYG editor 
+ */
+
+/* Food menu */
+.food-menu__list {
+    border: 1px solid #eee;
+    border-top: none;
+    margin: 1rem 0;
+    display: -ms-grid;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.food-menu__list h3 {
+    margin: 0;
+}
+
+.food-menu__list h3 + p {
+    margin-top: 0.26667rem;
+}
+
+.food-menu__list li {
+    border-top: 1px solid #eee;
+    border-right: 1px solid #eee;
+    list-style: none;
+    padding: 1.06667rem;
+}
+
+.menu h3 {
+    font-size: 1rem;
+    margin-top: 0;
+}
+
+.line-separator {
+    border-bottom: 1px solid #E6E7EB;
+    padding-bottom: 0.53333rem;
+}
+
+
+.post__aside {
+        float: right;
+        margin: 1.6rem 0 1.6rem 3.2rem;
+        max-width: 40%;
+        position: relative;
+        z-index: 1;
+    }
+
+.post__aside > :nth-child(1) {
+    margin: 0;
+}
+
+.post__aside--left {
+        float: left;
+        margin: 1.6rem 3.2rem 1.6rem 0;
+}
+
+.btn--white {
+    background: #FFFFFF;
+    border-color: #FFFFFF;
+    color: #1B1B1F ;
+}
+
+.btn--yellow {
+    background: #FFC439;
+    border-color: #FFC439;
+    color: #FFFFFF ;
+}
+
+.btn--green {
+    background: #4caf50;
+    border-color: #4caf50;
+    color: #FFFFFF ;
+}
+
+.btn--gray {
+    background: #424246;
+    border-color: #424246;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #FFFFFF ;
+}
+
+.btn--color {
+    background: #DE6B48;
+    border-color: #DE6B48;
+    color: #FFFFFF ;
+}
+
+.btn--outline {
+    background: none;
+    border: 1px solid #424246;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #1B1B1F;
+}
