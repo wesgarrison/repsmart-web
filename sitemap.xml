@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://wesgarrison.github.io/repsmart-web/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://repsmart.co/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://wesgarrison.github.io/repsmart-web/</loc>
+<loc>https://repsmart.co/</loc>
+</url>
+<url>
+<loc>https://repsmart.co/about.html</loc>
+<lastmod>2023-01-20T14:53:41-06:00</lastmod>
+</url>
+<url>
+<loc>https://repsmart.co/contact.html</loc>
+<lastmod>2023-01-24T09:47:34-06:00</lastmod>
+</url>
+<url>
+<loc>https://repsmart.co/features.html</loc>
+<lastmod>2023-01-24T09:53:39-06:00</lastmod>
+</url>
+<url>
+<loc>https://repsmart.co/good-reports-good-sales.html</loc>
+<lastmod>2023-01-20T15:04:44-06:00</lastmod>
+</url>
+<url>
+<loc>https://repsmart.co/pricing.html</loc>
+<lastmod>2023-01-24T09:46:32-06:00</lastmod>
+</url>
+<url>
+<loc>https://repsmart.co/product-dependency-rules-reduce-mistakes.html</loc>
+<lastmod>2023-01-20T15:06:52-06:00</lastmod>
 </url>
 </urlset>

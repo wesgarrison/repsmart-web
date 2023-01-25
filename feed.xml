@@ -1,12 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RepSmart</title>
-    <link href="https://wesgarrison.github.io/repsmart-web/feed.xml" rel="self" />
-    <link href="https://wesgarrison.github.io/repsmart-web" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <link href="https://repsmart.co/feed.xml" rel="self" />
+    <link href="https://repsmart.co" />
+    <updated>2023-01-20T15:06:52-06:00</updated>
     <author>
         <name>repsmart</name>
     </author>
-    <id>https://wesgarrison.github.io/repsmart-web</id>
+    <id>https://repsmart.co</id>
 
+    <entry>
+        <title>Product Dependency Rules Reduce Mistakes</title>
+        <author>
+            <name>repsmart</name>
+        </author>
+        <link href="https://repsmart.co/product-dependency-rules-reduce-mistakes.html"/>
+        <id>https://repsmart.co/product-dependency-rules-reduce-mistakes.html</id>
+
+        <updated>2023-01-20T15:06:52-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Product dependency&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Product dependency rules are an important tool for any business that sells multiple products or services. These rules help ensure that sales quotes are accurate and complete by taking into account any interdependencies between products. This is particularly important in the HVAC industry, where systems often require multiple components to function properly.<br><br>For example, a sales quote for an HVAC system may need to include not only the cost of the unit itself, but also the cost of installation, any necessary ductwork, and any additional components such as thermostats or air filters. Without proper product dependency rules in place, it is easy for sales reps to overlook these additional costs, leading to mistakes on the quote and potentially causing issues later on.<br><br>Implementing better product dependency rules can help eliminate these mistakes by ensuring that all necessary components and costs are accounted for in the sales quote. This can be done through the use of software that automatically checks for dependencies, or through the use of a checklist that sales reps must follow when preparing quotes. By taking these steps, businesses can increase the accuracy of their quotes and improve the overall customer experience.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Good Reports &#x3D; Good Sales</title>
+        <author>
+            <name>repsmart</name>
+        </author>
+        <link href="https://repsmart.co/good-reports-good-sales.html"/>
+        <id>https://repsmart.co/good-reports-good-sales.html</id>
+
+        <updated>2023-01-20T15:04:44-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Good sales&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Good sales reports are essential for any business, but they are particularly important in the HVAC industry. Heating, ventilation, and Air Conditioning (HVAC) systems are a significant investment for homeowners and businesses, and having accurate and detailed sales reports can help close more deals and increase revenue.<br><br>Sales reports provide a clear picture of the current state of the business, including information on sales, revenue, and customer demographics. This information can be used to identify trends and areas for improvement. For example, if a sales report indicates that a particular type of HVAC system is not selling well, the company can adjust its marketing efforts to target a different demographic or focus on the benefits of that system.<br><br>In addition to providing valuable information for the sales team, good sales reports can also be used to improve customer service. By understanding customer demographics and purchasing habits, a company can tailor its services to better meet the needs of its customers. This can include offering financing options, providing customized maintenance plans, and offering warranties or guarantees.<br><br>Overall, good sales reports are essential for the success of any HVAC business. They provide valuable insights into the current state of the company, identify areas for improvement, and can be used to improve customer service. By investing in effective sales reporting tools and using the information to make informed decisions, HVAC companies can increase their revenue and grow their business.
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
